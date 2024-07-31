@@ -1,0 +1,19 @@
+{
+  "name": "top-sorting-algorithms",
+  "version": "1.0.0",
+  "description": "here is most commmon used sorting algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dostontech/Sorting-Algorithms.git"
+  },
+  "author": "Doston Abdulboriev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dostontech/Sorting-Algorithms/issues"
+  },
+  "homepage": "https://github.com/dostontech/Sorting-Algorithms#readme"
+}
